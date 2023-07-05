@@ -1,1 +1,1 @@
-# project_python
+This is a snake game
